@@ -20,7 +20,6 @@
     "require-dev": {
         "illuminate/filesystem": "^10.0|^11.0",
         "illuminate/translation": "^10.0|^11.0",
-        "illuminate/validation": "^10.0|^11.0",
-        "laravel/pint": "^1.15"
+        "illuminate/validation": "^10.0|^11.0"
     }
 }
